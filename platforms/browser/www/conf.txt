@@ -1,0 +1,162 @@
+{
+  "hlavne_menu": {
+    "Mapa": {
+      "ikona": "fa-map-o",
+      "url": "mapa.html"
+    },
+    "Tipy na výlet": {
+      "ikona": "fa-map-signs",
+      "url": "tipy_na_vylet.html"
+    },
+    "Podujatia": {
+      "ikona": "fa-calendar",
+      "url": "podujatia.html"
+    },
+    "Služby": {
+      "ikona": "fa-suitcase",
+      "url": "sluzby.html"
+    }
+  },
+  "mapa": {
+    "Mapa": {
+      "ikona": "fa-map-o",
+      "url": "index.html"
+    },
+    "body_zaujmu": {
+      "pamatník": {
+        "ikona": "fa-map-signs",
+        "suradnice": "xyz",
+        "url": "mapa.html"
+      },
+      "tank": {
+        "ikona": "fa-map-signs",
+        "suradnice": "xyz",
+        "url": "mapa.html"
+      },
+      "strom": {
+        "ikona": "fa-map-signs",
+        "suradnice": "xyz",
+        "url": "mapa.html"
+      }
+    }
+  },
+  "tipy_na_vylet": {
+    "Vojenská historia": {
+      "ikona": "fa-map-signs",
+      "data": {
+        "pamatník": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "tank": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "hrob vojaka": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        }
+      }
+    },
+    "Drevené chrámy": {
+      "ikona": "fa-map-signs",
+      "data": {
+        "ikona": "fa-map-signs",
+        "kostolik": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "chrám Dj boba": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "ešte nejaký chrám": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        }
+      }
+    },
+    "Kultúra": {
+      "ikona": "fa-map-signs",
+      "data": {
+        "divadlo na dukle": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "kino za rohom": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "den detí": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        }
+      }
+    },
+    "Priroda": {
+      "ikona": "fa-map-signs",
+      "data": {
+        "turistika1": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "turistika2": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        },
+        "turistika3": {
+          "nazov": "nazovzaujmavosti",
+          "popis": "xyz",
+          "img": "/zaujimavost/ibr.jpg",
+          "tel": "0901 234 567",
+          "email": "dukla@info.sk",
+          "web": "www.zaujmave.sk"
+        }
+      }
+    }
+  }
+}

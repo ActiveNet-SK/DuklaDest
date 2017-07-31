@@ -1,0 +1,8 @@
+debug.log
+platforms
+bin
+bld
+plugins
+node_modules
+/.vs
+resources/signing

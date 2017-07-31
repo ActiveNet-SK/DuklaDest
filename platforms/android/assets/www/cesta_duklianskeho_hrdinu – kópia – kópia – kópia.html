@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title>Blank App</title>
+    <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!--script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDMWXb92QyB9KCB023AFBwKPG9dzWczF2M&sensor=true"></script>-->
+    <link rel="stylesheet" type="text/css" href="plugins/leaflet/leaflet.css" />
+
+</head>
+
+<body id="body_tipy_na_vylet">
+
+
+
+    <div id="kontajner">
+        <!--div id="pozadie">
+            <img src="img/slider/obr.png" class="pozadie_tipy_na_vylet" alt="dukla_pomnik" />
+        </div-->
+
+
+        <script>
+            document.addEventListener("deviceready", tnv, false);
+
+            function tnv() {
+
+                getTnvData('cdh');
+            }
+
+
+
+        </script>
+
+
+        <div id="body_tipy_na_vylet_zoznam">
+
+
+            <article class="polozka_bod_zaujmu" onClick='presmeruj("detail.html?id=60")'>
+                <div  class="polozka_bod_zaujmu">
+
+                    <picture>
+                        <source srcset="https://www.dukladestination.com/wp-content/uploads/2016/05/vojenske-muzeum-svidnik-170x170.jpg" media="(min-width: 580px)">
+                        <img src="https://www.dukladestination.com/wp-content/uploads/2016/05/vojenske-muzeum-svidnik-490x276.jpg" alt="vojenské múzeum svidník" width="490" height="276">
+                    </picture>
+                </div>
+
+                <div class="texty_bodu_zaujmu">
+                    <h2 class="titulok">Vojenské historické múzeum – Múzejné oddelenie Svidník</h2>
+                    <p class="popis">Múzejné oddelenie Vojenského historického múzea vo Svidníku sa špecializuje na dokumentáciu vojenských dejín Slovenska v období rokov 1914 - 1945.</p>
+                    </div>
+        
+          </article> 
+           
+            <article class="polozka_bod_zaujmu">
+
+
+
+
+
+            </article>
+</div>
+
+
+
+    </div>
+
+
+    </div>
+
+
+    <div class="navigacia">
+        <div id="tipy_na_vylet_btn_pravo">
+            <a href="index.html"><img class="icon icons8-Home" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAC+ElEQVR4Xu2Z/3XUMAzHpQmACaATtCOUDcoEtBPQTlKYgDIBbAAjwATABKUTiKd7zr3EtSU7spWXd86f5yTS96MfsXwIJ37hieuHAWBkwIkT2LQEiOiK+SPit63isBkAIroGgM9B+A0iPmwBYRMAkfhJ9yYQ3AEQ0QcA+JiJ9i0ifvLMBFcARMQpz6kvXQ+IeOMFwQ1ARvxTEPoiEuwGwQWAIP4yCP8BAJtA6AqAiF4CwHcAuIgizJG/RMSf/DsR8XoKAq+/RcR/vUqiGwBB/F8AuJrET8ICBN4PvI7EdoXQBYAg/leIfDKi4TnOhHMvCM0BhEh+BYA3kQhR/CwTuGxSEP4AwLs4c6yl0RRAEM81zyLmV5H4AgicOdwTDr2jxdUMgCD+CyJq3/6kFiLi7fH7aLEphCYAwlDDm5w48qvFz7IhB4G3zuYhygwgs69n/83iFQi8bJ4fTAAE8XeImNvvrypdIroFgPvEwyYIqwEIQ43JIYmOAHz1ELUKgDDUdBM/K4f5OcKc16r5oRqAsK+/btGUSuojNF1ujub5oQqANNS0/DYXQsjND1WZUASgdKgpcbzlPS2GKBVA7VDTUmDJu6xDlAhg7VBT4njLeyxDVBaAdahpKbDkXQIEcYhKAhD29ezLq54HFCVic/cECI+J9ez88AyAIp7/xFD7hkWE9Vkiosw7khAWYoSh5vjOHQNgDQxhMUQdARARH2D81iJQC0CIiGbqsN7J3hkicm9Y/j2e2GvfxQNIJ4eyMBrYizUstuupHjDN34cb4wg2cKgo8tNNVnv8/Cywz0b03FeAj6z5XI6PrBdNxepQlfoGJTD5S0RHTXMf1I7eGoAG0NveAKClpHdEvO2NDBgZoBDwTklve6MERgmMEpAJeNekt73RA0YPGD1g9ACRgHdT8rY3mmBtE9Tu19ZrzwO092nrmr3qDNAMauuaQ9ZD1Ni+Zm8A0CLmHRFve2oGaID2vj4A7D2CVv9HBlgJ7v35kQF7j6DV/5PPgP8ae2pfS6B2bgAAAABJRU5ErkJggg=="> </a>
+        </div>
+        <!--div id="tipy_na_vylet_btn_lavo">
+            <a href="tipy_na_vylet.html"> <i class="fa fa-reply" aria-hidden="true"></i> </a>
+        </div-->
+    </div>
+
+
+
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/skripty.js"></script>
+</body>
+</html>
