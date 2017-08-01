@@ -22,7 +22,6 @@
     </platform>
     <preference name="Orientation" value="portrait" />
     <preference name="Fullscreen" value="True" />
-    <engine name="android" spec="^6.2.3" />
     <plugin name="cordova-plugin-compat" spec="~1.0.0" />
     <plugin name="cordova-plugin-file" spec="~4.3.3" />
     <plugin name="cordova-plugin-file-transfer" spec="~1.6.3" />
