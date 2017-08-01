@@ -50,7 +50,7 @@
     "/"
   ],
   "_resolved": "git+https://github.com/litehelpers/Cordova-sqlite-legacy-build-support.git#d10d312d10af7fad7ecf6917e8ac4a5226d1e2bb",
-  "_shasum": "d5cb68bb7485fd840cc0ef3e75393593726c7b10",
+  "_shasum": "64ce4bbc22e8acac47d06be072dd645238c81f14",
   "_shrinkwrap": null,
   "_spec": "https://github.com/litehelpers/Cordova-sqlite-legacy-build-support",
   "_where": "C:\\GIT\\Dukladest\\DuklaDest\\node_modules",
