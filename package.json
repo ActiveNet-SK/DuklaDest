@@ -16,6 +16,7 @@
     "cordova-plugin-network-information": "^1.3.3",
     "cordova-plugin-whitelist": "^1.3.2",
     "cordova-sqlite-evcore-extbuild-free": "git+https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free.git",
+    "cordova-sqlite-legacy-build-support": "git+https://github.com/litehelpers/Cordova-sqlite-legacy-build-support.git",
     "cordova-sqlite-storage": "^2.0.4"
   },
   "cordova": {

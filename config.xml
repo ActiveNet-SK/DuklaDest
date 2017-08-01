@@ -1,31 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <widget defaultlocale="Svk" id="com.phonegappro.dukladest" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>VISIT SVIDNIK ZAGORZ</name>
-    <description>  Vytvorené vďaka projektu "Svidník - Zagórz v aplikácii". Projekt realizovaný cez Program cezhraničnej spolupráce Interreg V-A Poľsko-Slovensko 2014-2020 A Európsky fond regionálneho rozvoja. </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">ActiveNet
+  <name>VISIT SVIDNIK ZAGORZ</name>
+  <description>  Vytvorené vďaka projektu "Svidník - Zagórz v aplikácii". Projekt realizovaný cez Program cezhraničnej spolupráce Interreg V-A Poľsko-Slovensko 2014-2020 A Európsky fond regionálneho rozvoja. </description>
+  <author email="dev@cordova.apache.org" href="http://cordova.io">ActiveNet
     </author>
-    <content src="uvod.html" />
-    <access origin="*" />
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="sms:*" />
-    <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
-    <icon src="res/icon/logo.png" />
-    <platform name="android">
-        <allow-intent href="market:*" />
-    </platform>
-    <platform name="ios">
-        <allow-intent href="itms:*" />
-        <allow-intent href="itms-apps:*" />
-    </platform>
-    <preference name="Orientation" value="portrait" />
-    <preference name="Fullscreen" value="True" />
-    <plugin name="cordova-plugin-compat" spec="~1.0.0" />
-    <plugin name="cordova-plugin-file" spec="~4.3.3" />
-    <plugin name="cordova-plugin-file-transfer" spec="~1.6.3" />
-    <plugin name="cordova-plugin-network-information" spec="^1.3.3" />
-    <plugin name="cordova-plugin-whitelist" spec="^1.3.2" />
-    <plugin name="cordova-sqlite-evcore-extbuild-free" spec="~0.9.0" src="https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free" />
+  <content src="uvod.html" />
+  <access origin="*" />
+  <allow-intent href="http://*/*" />
+  <allow-intent href="https://*/*" />
+  <allow-intent href="tel:*" />
+  <allow-intent href="sms:*" />
+  <allow-intent href="mailto:*" />
+  <allow-intent href="geo:*" />
+  <icon src="res/icon/logo.png" />
+  <platform name="android">
+    <allow-intent href="market:*" />
+  </platform>
+  <platform name="ios">
+    <allow-intent href="itms:*" />
+    <allow-intent href="itms-apps:*" />
+  </platform>
+  <preference name="Orientation" value="portrait" />
+  <preference name="Fullscreen" value="True" />
+  <plugin name="cordova-plugin-compat" spec="~1.0.0" />
+  <plugin name="cordova-plugin-file" spec="~4.3.3" />
+  <plugin name="cordova-plugin-file-transfer" spec="~1.6.3" />
+  <plugin name="cordova-plugin-network-information" spec="^1.3.3" />
+  <plugin name="cordova-plugin-whitelist" spec="^1.3.2" />
+  <plugin name="cordova-sqlite-legacy-build-support" spec="~1.3.5" src="https://github.com/litehelpers/Cordova-sqlite-legacy-build-support" />
 </widget>
